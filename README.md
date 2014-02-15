@@ -1,7 +1,7 @@
 text-tools
 ==========
 
-paring and filtering delimited text data
+Parsing and filtering delimited text data
 
 ------------
 
