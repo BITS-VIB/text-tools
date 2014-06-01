@@ -3,7 +3,7 @@ text-tools
 
 Parsing and filtering delimited text data
 
-<h4>Please send comments and feedback to [bits@vib.be](mailto:bits@vib.be)</h4>
+<h4>Please send comments and feedback to <a href="mailto:sbits@vib.be">bits@vib.be</a></h4>
 
 ------------
 
